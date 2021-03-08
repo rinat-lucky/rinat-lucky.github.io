@@ -1,2 +1,2 @@
-# rinat-lucky.github.io
+# https://rinat-lucky.github.io/
 Portfolio
